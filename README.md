@@ -9,7 +9,7 @@
 
 <h3 align = "center"> JavaScript Framework for building Frontend Applications </h3>
 
-## Including
+## Also Includes
 
 w/ Router, Vuex, Composition API
 
