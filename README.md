@@ -15,4 +15,4 @@ w/ Router, Vuex, Composition API
 
 ## Project Specifications
 
-- Understanding the Theory behind Vue.js and using it in Real Projects.
+- Understanding the Theory behind Vue.js and using it in Real Projects..
